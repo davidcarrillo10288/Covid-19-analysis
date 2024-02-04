@@ -12,7 +12,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 # Preguntas Claves
 
-## 1. ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?
+## 1. ¿Cómo ha evolucionado el Covid-19 en México-Perú-Colombia en comparación con el impacto observado a nivel global?
 
    ![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/6fddb604-0f1d-4aa9-9e3b-251dcca4f056)
 
