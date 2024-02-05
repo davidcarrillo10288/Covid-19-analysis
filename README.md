@@ -6,9 +6,13 @@ GRÁFICO COROPLÉTICO INTERACTIVO - CASOS ACUMULADOS COVID19 - WORLDWIDE
 ![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c)
 
 
-Bienvenido a mi proyecto de análisis del COVID-19. En este repositorio, exploraré y visualizaré datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
+Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
 
 Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
+
+# 💻 Tech Stack:
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 # Preguntas Claves
 
