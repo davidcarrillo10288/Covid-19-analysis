@@ -1,9 +1,14 @@
 # Covid-19-analysis
 
 GRÁFICO COROPLÉTICO INTERACTIVO - CASOS ACUMULADOS COVID19 - WORLDWIDE
-[Ver Gráfico Interactivo](https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html)
+[Primer Gráfico Interactivo](https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html)
 
 ![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c)
+
+
+[Segundo Gráfico Interactivo](https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html)
+![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/0df8e760-fcbe-4a4b-b7d6-e473751e7dea)
+
 
 
 Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
