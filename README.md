@@ -5,7 +5,7 @@ GRÁFICO COROPLÉTICO INTERACTIVO - CASOS ACUMULADOS COVID19 - WORLDWIDE
 
 ![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c)
 
-
+VIDEO COROPLÉTICO INTERACTIVO - CASOS ACUMULADOS COVID19 - WORLDWIDE
 [Segundo Gráfico Interactivo](https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html)
 ![image](https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/0df8e760-fcbe-4a4b-b7d6-e473751e7dea)
 
